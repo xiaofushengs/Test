@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                // "${workspaceFolder}/xiangmu",
+                // "${workspaceFolder}/xiangmu1",
+                 "D:\\C++practical\\xiangmu1",
+                 "D:/C++practical/Algorithm/Data-Structure-And-Algorithm-master"
+               
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
