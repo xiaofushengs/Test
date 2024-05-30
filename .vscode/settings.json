@@ -57,5 +57,6 @@
         "streambuf": "cpp"
     },
     "files.encoding": "gbk",
-    "files.autoGuessEncoding": true
+    
+   
 }
