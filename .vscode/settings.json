@@ -54,7 +54,8 @@
         "numbers": "cpp",
         "sstream": "cpp",
         "stdexcept": "cpp",
-        "streambuf": "cpp"
+        "streambuf": "cpp",
+        "queue": "cpp"
     },
     "files.encoding": "gbk",
     
