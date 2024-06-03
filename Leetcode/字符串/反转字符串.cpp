@@ -19,4 +19,5 @@ string swapPair(string& s){
 int main(){
     string s="hello";
     cout<<swapPair(s)<<endl;
+    cout<<"hello"<<endl;
 }
