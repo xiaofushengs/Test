@@ -60,5 +60,6 @@
     },
     "files.encoding": "gbk",
     
-   
+    "leetcode.endpoint": "https://leetcode.com",
+    "http.proxy": "http://proxy.example.com:8080"
 }
