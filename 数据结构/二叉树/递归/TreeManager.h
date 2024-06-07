@@ -21,25 +21,25 @@ public:
         insert(root, val);
     }
 
-    // Ç°Ğò±éÀú
+    // Ã‡Â°ÃÃ²Â±Ã©Ã€Ãº
     void preOrderTraversal() const {
         preOrderTraversal(root);
         cout << endl;
     }
     
-    //ÖĞĞò±éÀú
+    //Ã–ÃÃÃ²Â±Ã©Ã€Ãº
     void InOrderTraversal() const{
         InOrderTraversal(root);
         cout<<endl;
     }
 
-    //ºóĞò±éÀú
+    //ÂºÃ³ÃÃ²Â±Ã©Ã€Ãº
     void postOrderTraversal() const{
         postOrderTraversal(root);
         cout<<endl;
     }
 
-    //²ãĞò±éÀú
+    //Â²Ã£ÃÃ²Â±Ã©Ã€Ãº
     void levelOrderTraversal() const{
         if(root==nullptr){
             return;

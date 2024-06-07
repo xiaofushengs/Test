@@ -27,14 +27,14 @@ bool IsValid(string &s){
 
 
 int main(){
-    cout<<"ÇëÊäÈë×Ö·û´®"<<endl;
+    cout<<"??????¡Á?¡¤???"<<endl;
     string s;
     cin>>s;
     bool result=IsValid(s);
     if(result){
-        cout<<"Æ¥Åä"<<endl;
+        cout<<"????"<<endl;
     }else{
-        cout<<"²»Æ¥Åä"<<endl;
+        cout<<"??????"<<endl;
     }
     return 0;
 }
