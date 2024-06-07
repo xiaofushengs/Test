@@ -6,7 +6,7 @@ using namespace std;
 int minSubArrayLen(int s,vector<int> & arr){
     int result=__INT32_MAX__;
     int sum=0;
-    int i=0; //ÆğÊ¼Î»ÖÃ
+    int i=0; 
     int Sublength=0;
     for (int j = 0; j < arr.size(); j++)
     {

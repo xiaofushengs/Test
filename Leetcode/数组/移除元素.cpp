@@ -12,6 +12,7 @@ int removeElement(vector<int> &v,int target){
             v[slowIndex++]=v[fastIndex];
         }
     }
+    v.resize(slowIndex);
     return slowIndex;
 }
 

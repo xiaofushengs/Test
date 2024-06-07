@@ -6,7 +6,7 @@
                 "${workspaceFolder}/**",
                 // "${workspaceFolder}/xiangmu",
                 // "${workspaceFolder}/xiangmu1",
-                 "D:\\C++practical\\xiangmu1",
+                 
                  "D:/C++practical/Algorithm/Data-Structure-And-Algorithm-master"
                
             ],
