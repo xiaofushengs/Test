@@ -7,11 +7,9 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                // "${file}",
                 "${workspaceFolder}/xiangmu1/*.cpp",
                 "-I",
                 "${workspaceFolder}/xiangmu1",
-                
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
