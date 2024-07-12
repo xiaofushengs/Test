@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/Test/杨老师task/build/CMakeFiles/ReadPhoto.dir
+C:/Users/DELL/Desktop/Test/杨老师task/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Desktop/Test/杨老师task/build/CMakeFiles/ZERO_CHECK.dir
