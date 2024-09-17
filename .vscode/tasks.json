@@ -11,23 +11,7 @@
                 "-I",
                 "${workspaceFolder}/xiangmu1",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                
-                "-I", "E:/opencv3.4/opencv/build/include",
-                "-I", "E:/opencv3.4/opencv/build/include/opencv",
-                "-I", "E:/opencv3.4/opencv/build/include/opencv2",
-                "-L", "E:/opencv3.4/opencv/build/x64/MinGW/lib",
-                "-l", "opencv_core345",
-                "-l", "opencv_imgproc345",
-                "-l", "opencv_imgcodecs345",
-                "-l", "opencv_video345",
-                "-l", "opencv_ml345",
-                "-l", "opencv_highgui345",
-                "-l", "opencv_objdetect345",
-                "-l", "opencv_flann345",
-                "-l", "opencv_imgcodecs345",
-                "-l", "opencv_photo345",
-                "-l", "opencv_videoio345"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
 
             ],
             "options": {

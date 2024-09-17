@@ -3,13 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                 "${workspaceFolder}/**",
-                 "D:/C++practical/Algorithm/Data-Structure-And-Algorithm-master",
-                //  "E:/opencv3.4/opencv/build/include",
-                //  "E:/opencv3.4/opencv/build/include/opencv",
-                //  "E:/opencv3.4/opencv/build/include/opencv2"
-                 // "${workspaceFolder}/xiangmu",
-                // "${workspaceFolder}/xiangmu1",
+                 "${workspaceFolder}/**"
                
             ],
             "defines": [
